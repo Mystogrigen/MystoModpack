@@ -1,0 +1,6 @@
+210
+0
+Assets/Illusion/assetbundle/chara/list/characustom/00/mysto_jacket_a.bytes
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,NormalData,NotBra,OverBodyMaskAB,OverBodyMask,OverBraMaskAB,OverBraMask,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,ThumbAB,ThumbTex
+4535345,0,1,Discord Hoody,abdata,chara/mysto_jacket_a.unity3d,p_o_top_inner03,0,0,chara/mt_mask_body_discord.unity3d,cf_inner01_body_mab,chara/mt_mask_bra_00.unity3d,cf_inner01_bra_mab,0,cf_top_innerdiscord_t,0,cf_top_innerdiscord_mc,0,0,0,0,chara/thumb/mysto_thumbs.unity3d,p_o_top_innerdiscord
+4535346,0,1,Shirtless Hoody,abdata,chara/mysto_jacket_a.unity3d,p_o_top_inner03,0,0,chara/mt_mask_body_discord.unity3d,cf_inner01_body_mab,chara/mt_mask_bra_00.unity3d,cf_inner01_bra_mab,0,cf_top_inner03_t,0,cf_top_inner03_mc,0,0,0,0,chara/thumb/mysto_thumbs.unity3d,p_o_top_inner03

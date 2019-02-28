@@ -1,0 +1,16 @@
+421
+0
+Assets/Illusion/assetbundle/chara/list/characustom/00/mysto_tattoo.bytes
+ID,Kind,Possess,Name,MainAB,PaintTex,ThumbAB,ThumbTex
+56401,0,1,Modder Money,chara/mysto_tattoo.unity3d,halfpenny_01,chara/thumb/mysto_thumbs.unity3d,halfpenny_1
+56402,0,1,Heart Womb,chara/mysto_tattoo.unity3d,heartwomb_1,chara/thumb/mysto_thumbs.unity3d,heartwomb_1
+56403,0,1,Musoro Verstige,chara/mysto_tattoo.unity3d,musoroverstige_1,chara/thumb/mysto_thumbs.unity3d,musooverstige_1
+56404,0,1,Fate ElMelloi,chara/mysto_tattoo.unity3d,FateElMelloi_01,chara/thumb/mysto_thumbs.unity3d,FateElMelloi_1
+56405,0,1,Fate Emiya,chara/mysto_tattoo.unity3d,FateEmiya_01,chara/thumb/mysto_thumbs.unity3d,FateEmiya_1
+56406,0,1,Fate Extra,chara/mysto_tattoo.unity3d,FateExtra_01,chara/thumb/mysto_thumbs.unity3d,FateExtra_1
+56407,0,1,Fate Kirei,chara/mysto_tattoo.unity3d,FateKirei_01,chara/thumb/mysto_thumbs.unity3d,FateKirei_1
+56408,0,1,Fate Matou,chara/mysto_tattoo.unity3d,FateMatou_01,chara/thumb/mysto_thumbs.unity3d,FateMatou_1
+56409,0,1,Fate Saber,chara/mysto_tattoo.unity3d,FateSaber_01,chara/thumb/mysto_thumbs.unity3d,FateSaber_1
+56410,0,1,Fate Tosaka,chara/mysto_tattoo.unity3d,FateTosaka_01,chara/thumb/mysto_thumbs.unity3d,FateTosaka_1
+56411,0,1,Fate Uryu,chara/mysto_tattoo.unity3d,FateUryu_01,chara/thumb/mysto_thumbs.unity3d,FateUryu_1
+56412,0,1,Fate Velvet,chara/mysto_tattoo.unity3d,FateVelvet_01,chara/thumb/mysto_thumbs.unity3d,FateVelvet_1

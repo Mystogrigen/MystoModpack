@@ -1,0 +1,6 @@
+430
+0
+Assets/Illusion/assetbundle/chara/list/characustom/00/mysto_patterns.bytes
+ID,Kind,Possess,Name,MainTexAB,MainTex,ThumbAB,ThumbTex
+56412,0,1,Cow,chara/mysto_patterns.unity3d,cow01,chara/thumb/mysto_thumbs.unity3d,cow01
+56413,0,1,Cat Paw,chara/mysto_patterns.unity3d,kitty,chara/thumb/mysto_thumbs.unity3d,kitty

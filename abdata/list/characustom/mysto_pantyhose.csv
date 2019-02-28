@@ -1,0 +1,5 @@
+110
+0
+Assets/Illusion/assetbundle/chara/list/characustom/00/mysto_pantyhose.bytes
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,StateType,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,KokanHide,ThumbAB,ThumbTex
+4393516,1,1,Low-cut Leggings,abdata,chara/mysto_pantyhose.unity3d,p_o_panst_regins,1,0,cf_panst_regins_t,0,cf_panst_regins_mc,0,0,0,0,1,chara/thumb/mysto_thumbs.unity3d,p_o_panst_regins
